@@ -1,0 +1,9 @@
+# Запрос(goal)
+float64 a
+float64 b
+---
+# Ответ(Result)
+float64 sum
+---
+# Промежуточный результат(Feedback)
+float64 current_sum
